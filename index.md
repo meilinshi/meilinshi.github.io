@@ -24,25 +24,21 @@ I am a PhD student working with [Prof. Krzysztof Janowicz](https://people.geog.u
 - **[Diverse Data! Diverse Schemata?](http://www.semantic-web-journal.net/content/diverse-data-diverse-schemata)**
   <br> 
   Krzysztof Janowicz, Cogan Shimizu, Pascal Hitzler, Gengchen Mai, Shirly Stephen, Rui Zhu, Ling Cai, Lu Zhou, Mark Schildhauer, Zilong Liu, Zhangyu Wang, **Meilin Shi**. **Semantic Web Journal, 2021**.
-  <br>
   [[PDF](http://www.semantic-web-journal.net/system/files/swj2953.pdf)]
 
 - **[A Socially Aware Huff Model for Destination Choice in Nature-based Tourism](https://agile-giss.copernicus.org/articles/2/14/2021/) <strong><i style="color:#e74d3c"> \* Best Full Paper Nominatee </i></strong>**
   <br>
   **Meilin Shi**, Krzysztof Janowicz, Ling Cai, Gengchen Mai and Rui Zhu. **AGILE 2021**.
-  <br>
   [[PDF](https://agile-giss.copernicus.org/articles/2/14/2021/agile-giss-2-14-2021.pdf)] [[Code](https://github.com/meilinshi/Socially-aware-Huff-model)] 
   
 - **[Semantically-Enriched Search Engine for Geoportals: A Case Study with ArcGIS Online](https://agile-giss.copernicus.org/articles/1/13/2020/)**
   <br>
   Gengchen Mai, Krzysztof Janowicz, Sathya Prasad, **Meilin Shi**, Ling Cai, Rui Zhu, Blake Regalia, Ni Lao. **AGILE 2020**.
-  <br>
   [[PDF](https://agile-giss.copernicus.org/articles/1/13/2020/agile-giss-1-13-2020.pdf)] 
 
 - **[SE-KGE: A Location-Aware Knowledge Graph Embedding Model for Geographic Question Answering and Spatial Semantic Lifting](https://onlinelibrary.wiley.com/doi/full/10.1111/tgis.12629)**
   <br>
   Gengchen Mai, Krzysztof Janowicz, Ling Cai, Rui Zhu, Blake Regalia, Bo Yan, **Meilin Shi**, Ni Lao. **Transactions in GIS, 24.3 (2020)**.
-  <br>
   [[PDF](https://onlinelibrary.wiley.com/doi/epdf/10.1111/tgis.12629)]
 
 
