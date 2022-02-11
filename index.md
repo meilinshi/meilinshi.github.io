@@ -4,47 +4,40 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a PhD student working with [Prof. Krzysztof Janowicz](https://people.geog.ucsb.edu/~jano/) in the Spatial Temporal Knowledge Observatory (STKO) Lab, Department of Geography, UC Santa Barbara. 
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Spatial Data Science** 
+- **Geo-spaial Semantics** 
+- **Geographic Knowledge Graphs**
+- **Spatial Statistics**
 
-## News
+## Education
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- Ph.D in Geography, University of California, Santa Barbara, 2024 (expected)
+- M.A. in Geography, University of California, Santa Barbara, 2021
+- B.S. in Physical Geography, University of California, Santa Barbara, 2018
+  * Minor in German Studies
 
 ## Publications
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+- **[A Socially Aware Huff Model for Destination Choice in Nature-based Tourism](https://agile-giss.copernicus.org/articles/2/14/2021/) <strong><i style="color:#e74d3c"> \* Best Full Paper Nominatee </i></strong>**
   <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  **Meilin Shi**, Krzysztof Janowicz, Ling Cai, Gengchen Mai and Rui Zhu. **AGILE 2021**.
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
+  [[PDF](https://agile-giss.copernicus.org/articles/2/14/2021/agile-giss-2-14-2021.pdf)] [[Code](https://github.com/meilinshi/Socially-aware-Huff-model)] 
+  
+- **[Semantically-Enriched Search Engine for Geoportals: A Case Study with ArcGIS Online](https://agile-giss.copernicus.org/articles/1/13/2020/)**
   <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  Gengchen Mai, Krzysztof Janowicz, Sathya Prasad, **Meilin Shi**, Ling Cai, Rui Zhu, Blake Regalia, Ni Lao. **AGILE 2020**.
+  <br>
+  [[PDF](https://agile-giss.copernicus.org/articles/1/13/2020/agile-giss-1-13-2020.pdf)] 
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+- **[SE-KGE: A Location-Aware Knowledge Graph Embedding Model for Geographic Question Answering and Spatial Semantic Lifting](https://onlinelibrary.wiley.com/doi/full/10.1111/tgis.12629)**
   <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
+  Gengchen Mai, Krzysztof Janowicz, Ling Cai, Rui Zhu, Blake Regalia, Bo Yan, **Meilin Shi**, Ni Lao. **Transactions in GIS**.
   <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
-  <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
+  [[PDF](https://onlinelibrary.wiley.com/doi/epdf/10.1111/tgis.12629)]
 
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
-  <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
 
-## Services
-
-- Conference Reviewers: NeurIPS 2020, CVPR 2020.
-- Journal Reviewers: T-PAMI, IJCV.
