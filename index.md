@@ -8,9 +8,9 @@ I am a PhD student working with [Prof. Krzysztof Janowicz](https://people.geog.u
 
 ## Research Interests
 
-- **Spatial Data Science** 
-- **Geospaial Semantics** 
 - **Geographic Knowledge Graphs**
+- **Geospatial Semantics** 
+- **Spatial Data Science** 
 - **Spatial Statistics**
 
 ## Education
