@@ -21,6 +21,14 @@ I am a PhD student working with [Prof. Krzysztof Janowicz](https://people.geog.u
   * Minor in German Studies
 
 ## Publications
+- **[Know, Know Where, KnowWhereGraph: A densely connected, cross‐domain knowledge graph and geo‐enrichment service stack for applications in environmental intelligence](https://onlinelibrary.wiley.com/doi/full/10.1002/aaai.12043)**
+  <br>
+  Krzysztof Janowicz, Pascal Hitzler, Wenwen Li, Dean Rehberger, Mark Schildhauer, Rui Zhu, Cogan Shimizu, Colby K Fisher, Ling Cai, Gengchen Mai, Joseph Zalewski, Lu Zhou, Shirly Stephen, Seila Gonzalez, Bryce Mecum, Anna Lopez‐Carr, Andrew Schroeder, David Smith, Dawn Wright, Sizhe Wang, Yuanyuan Tian, Zilong Liu, **Meilin Shi**, Anthony D'Onofrio, Zhining Gu, Kitty Currier. **AI Magazine, 2022**. [[PDF](https://onlinelibrary.wiley.com/doi/pdf/10.1002/aaai.12043)]
+  
+- **[LD Connect: A Linked Data Portal for IOS Press Scientometrics](https://2022.eswc-conferences.org/accepted-papers/)**
+  <br>
+  Zilong Liu*, **Meilin Shi\***, Krzysztof Janowicz, Blake Regalia, Stephanie Delbecque, Gengchen Mai, Rui Zhu, Pascal Hitzler. **ESWC 2022**. [[PDF](https://people.cs.ksu.edu/~hitzler/pub2/2022-ESWC-LDConnect.pdf)] [[Code](https://github.com/stko-lab/LD-Connect)]
+  
 - **[Diverse Data! Diverse Schemata?](http://www.semantic-web-journal.net/content/diverse-data-diverse-schemata)**
   <br> 
   Krzysztof Janowicz, Cogan Shimizu, Pascal Hitzler, Gengchen Mai, Shirly Stephen, Rui Zhu, Ling Cai, Lu Zhou, Mark Schildhauer, Zilong Liu, Zhangyu Wang, **Meilin Shi**. **Semantic Web Journal, 2021**.
