@@ -25,9 +25,9 @@ I am a PhD student working with [Prof. Krzysztof Janowicz](https://people.geog.u
   <br>
   Krzysztof Janowicz, Pascal Hitzler, Wenwen Li, Dean Rehberger, Mark Schildhauer, Rui Zhu, Cogan Shimizu, Colby K Fisher, Ling Cai, Gengchen Mai, Joseph Zalewski, Lu Zhou, Shirly Stephen, Seila Gonzalez, Bryce Mecum, Anna Lopez‐Carr, Andrew Schroeder, David Smith, Dawn Wright, Sizhe Wang, Yuanyuan Tian, Zilong Liu, **Meilin Shi**, Anthony D'Onofrio, Zhining Gu, Kitty Currier. **AI Magazine, 2022**. [[PDF](https://onlinelibrary.wiley.com/doi/pdf/10.1002/aaai.12043)]
   
-- **[LD Connect: A Linked Data Portal for IOS Press Scientometrics](https://link.springer.com/chapter/10.1007/978-3-031-06981-9_19)**
+- **[LD Connect: A Linked Data Portal for IOS Press Scientometrics](https://link.springer.com/chapter/10.1007/978-3-031-06981-9_19) <strong><i style="color:#e74d3c"> \* Spotlight Paper </i></strong>**
   <br>
-  Zilong Liu*, **Meilin Shi\***, Krzysztof Janowicz, Blake Regalia, Stephanie Delbecque, Gengchen Mai, Rui Zhu, Pascal Hitzler. **ESWC 2022**. [[PDF](https://link.springer.com/content/pdf/10.1007/978-3-031-06981-9_19.pdf)] [[Code](https://github.com/stko-lab/LD-Connect)]<strong><i style="color:#e74d3c"> \* Spotlight Paper </i></strong>**
+  Zilong Liu*, **Meilin Shi\***, Krzysztof Janowicz, Blake Regalia, Stephanie Delbecque, Gengchen Mai, Rui Zhu, Pascal Hitzler. **ESWC 2022**. [[PDF](https://link.springer.com/content/pdf/10.1007/978-3-031-06981-9_19.pdf)] [[Code](https://github.com/stko-lab/LD-Connect)]
   
 - **[Diverse Data! Diverse Schemata?](http://www.semantic-web-journal.net/content/diverse-data-diverse-schemata)**
   <br> 
