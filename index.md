@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a PhD student working with [Prof. Krzysztof Janowicz](https://people.geog.ucsb.edu/~jano/) in the Spatial Temporal Knowledge Observatory (STKO) Lab, Department of Geography, UC Santa Barbara. 
+I am a PhD student working with [Prof. Krzysztof Janowicz](https://www.univie.ac.at/en/research/research-overview/neue-professuren-ab-2020/detailansicht-en/artikel/univ-prof-dr-krzysztof-janowicz/#) in the Spatial Temporal Knowledge Observatory (STKO) Lab, Department of Geography and Regional Research, University of Vienna. 
 
 ## Research Interests
 
@@ -15,7 +15,7 @@ I am a PhD student working with [Prof. Krzysztof Janowicz](https://people.geog.u
 
 ## Education
 
-- Ph.D in Geography, University of California, Santa Barbara, 2024 (expected)
+- Ph.D in Geography, University of Vienna, 2024 (expected)
 - M.A. in Geography, University of California, Santa Barbara, 2021
 - B.S. in Physical Geography, University of California, Santa Barbara, 2018
   * Minor in German Studies
