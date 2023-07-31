@@ -4,23 +4,29 @@ layout: homepage
 
 ## About Me
 
-I am a PhD student working with [Prof. Krzysztof Janowicz](https://www.univie.ac.at/en/research/research-overview/neue-professuren-ab-2020/detailansicht-en/artikel/univ-prof-dr-krzysztof-janowicz/#) in the Spatial Temporal Knowledge Observatory (STKO) Lab, Department of Geography and Regional Research, University of Vienna. 
+I am a PhD student working on the topic of _Concept Drift in Geo-Knowledge Graphs_ with [Prof. Krzysztof Janowicz](https://www.univie.ac.at/en/research/research-overview/neue-professuren-ab-2020/detailansicht-en/artikel/univ-prof-dr-krzysztof-janowicz/#) in the Spatial Temporal Knowledge Observatory (STKO) Lab, Department of Geography and Regional Research, University of Vienna. 
 
 ## Research Interests
 
 - **Geographic Knowledge Graphs**
+- **GeoAI**
 - **Geospatial Semantics** 
 - **Spatial Data Science** 
-- **Spatial Statistics**
+
 
 ## Education
 
-- Ph.D in Geography, University of Vienna, 2024 (expected)
+- Ph.D in Geography, University of Vienna, 2025 (expected)
 - M.A. in Geography, University of California, Santa Barbara, 2021
 - B.S. in Physical Geography, University of California, Santa Barbara, 2018
   * Minor in German Studies
 
 ## Publications
+- **[Thinking Geographically about AI Sustainability](https://agile-giss.copernicus.org/articles/4/42/2023/)**
+  <br>
+  **Meilin Shi**, Kitty Currier,  Zilong Liu, Krzysztof Janowicz, Nina Wiedemann, Judith Verstegen, Grant McKenzie, Anita Graser, Rui Zhu, and Gengchen Mai. **AGILE 2023**.
+  [[PDF](https://agile-giss.copernicus.org/articles/4/42/2023/agile-giss-4-42-2023.pdf)]
+  
 - **[Know, Know Where, KnowWhereGraph: A densely connected, cross‐domain knowledge graph and geo‐enrichment service stack for applications in environmental intelligence](https://onlinelibrary.wiley.com/doi/full/10.1002/aaai.12043)**
   <br>
   Krzysztof Janowicz, Pascal Hitzler, Wenwen Li, Dean Rehberger, Mark Schildhauer, Rui Zhu, Cogan Shimizu, Colby K Fisher, Ling Cai, Gengchen Mai, Joseph Zalewski, Lu Zhou, Shirly Stephen, Seila Gonzalez, Bryce Mecum, Anna Lopez‐Carr, Andrew Schroeder, David Smith, Dawn Wright, Sizhe Wang, Yuanyuan Tian, Zilong Liu, **Meilin Shi**, Anthony D'Onofrio, Zhining Gu, Kitty Currier. **AI Magazine, 2022**. [[PDF](https://onlinelibrary.wiley.com/doi/pdf/10.1002/aaai.12043)]
