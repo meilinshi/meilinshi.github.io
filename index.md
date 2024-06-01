@@ -22,13 +22,13 @@ I am a PhD student working on the topic of _Concept Drift in Geo-Knowledge Graph
   * Minor in German Studies
  
 ## Teaching
- 
- - [290061 PS Principles and Methods of Application Development - Geographic Information Retrieval (2023W)](https://ufind.univie.ac.at/en/course.html?lv=290061&semester=2023W)
-   <br>
-   **Course description:** The size, modality, and source of information about any place or region in the world are constantly changing. To support a wide variety of downstream tasks such as    geographic question answering, geographic information retrieval (GIR) provides us with an approach of accessing, searching, indexing, and integrating geographic information. Applications related to GIR include the construction of gazetteers, Web search engines, location-based recommendation services, and so forth. The course will cover GIR’s core concepts, techniques and challenges, such as the ambiguity of place names, topological relations, georeferencing, spatial indexing and ranking, and user interface development. Through literature review and Python-based practical exercises, students will also learn how to query structured data from geographic databases, how to geoparse unstructured texts to extract location references, and geospatial semantic analysis and interactive geo-visualization with retrieved information.
   - [290006 PS Open GIS and Open Data in Geoinformation (2024S)](https://ufind.univie.ac.at/en/course.html?lv=290006&semester=2024S)
     <br>
     **Course description:** The course provides participants with an in-depth exploration of Open Source software within the realm of Geographic Information Systems (GIS) and the principles of Open Data initiatives. Participants will gain practical skills and knowledge of Open Source GIS tools and leverage Open Data resources effectively. Throughout the course, participants will learn from the fundamental concepts of Open GIS and Open Data to master the complete workflow of geospatial data processing and publication.
+ - [290061 PS Principles and Methods of Application Development - Geographic Information Retrieval (2023W)](https://ufind.univie.ac.at/en/course.html?lv=290061&semester=2023W)
+   <br>
+   **Course description:** The course will cover GIR’s core concepts, techniques and challenges, such as the ambiguity of place names, topological relations, georeferencing, spatial indexing and ranking, and user interface development. Through literature review and Python-based practical exercises, students will also learn how to query structured data from geographic databases, how to geoparse unstructured texts to extract location references, and geospatial semantic analysis and interactive geo-visualization with retrieved information.
+ 
 
 ## Publications
 - **[Thinking Geographically about AI Sustainability](https://agile-giss.copernicus.org/articles/4/42/2023/)**
