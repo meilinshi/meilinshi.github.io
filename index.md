@@ -21,7 +21,7 @@ I am a PhD student working on the topic of _Concept Drift in Geo-Knowledge Graph
 - B.S. in Physical Geography, University of California, Santa Barbara, 2018
   * Minor in German Studies
  
- ## Teaching
+## Teaching
  
  - [290061 PS Principles and Methods of Application Development - Geographic Information Retrieval (2023W)](https://ufind.univie.ac.at/en/course.html?lv=290061&semester=2023W)
    <br>
