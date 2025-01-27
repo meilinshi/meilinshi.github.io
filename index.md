@@ -22,13 +22,13 @@ I am a PhD student working on the topic of _Concept Drift in Geo-Knowledge Graph
   * Minor in German Studies
  
 ## Teaching
-  - [290003 VU Introduction to Spatial Data Science (2024W)](https://ufind.univie.ac.at/en/course.html?lv=290003&semester=2024W)
+  - **290003 VU Introduction to Spatial Data Science** ([2024W](https://ufind.univie.ac.at/en/course.html?lv=290003&semester=2024W))
     <br>
     **Course description:** The course will introduce students to Spatial Data Science as a "fourth paradigm" of science, outlining all stages from the initial conceptualization and representation of data to their creation, entry, cleaning, and analysis (e.g., using clustering or classification). This course discusses classics such as DBSCAN, develops a first understanding of issues of computational complexity, and includes introductory materials (and application areas) in knowledge representation, data engineering, geographic information retrieval (GIR), and so on, thereby providing an introduction for future class work (e.g., in GIR).
-  - [290006 PS Open GIS and Open Data in Geoinformation (2024S, 2025S)](https://ufind.univie.ac.at/en/course.html?lv=290006&semester=2024S)
+  - **290006 PS Open GIS and Open Data in Geoinformation** ([2024S](https://ufind.univie.ac.at/en/course.html?lv=290006&semester=2024S), 2025S)
     <br>
     **Course description:** The course provides participants with an in-depth exploration of Open Source software within the realm of Geographic Information Systems (GIS) and the principles of Open Data initiatives. Participants will gain practical skills and knowledge of Open Source GIS tools and leverage Open Data resources effectively. Throughout the course, participants will learn from the fundamental concepts of Open GIS and Open Data to master the complete workflow of geospatial data processing and publication.
- - [290061 PS Principles and Methods of Application Development - Geographic Information Retrieval (2023W, 2024W)](https://meilinshi.github.io/290061-Geographic-Information-Retrieval/intro.html)
+ - **290061 PS Principles and Methods of Application Development - Geographic Information Retrieval** ([2023W](https://ufind.univie.ac.at/en/course.html?lv=290061&semester=2023W), [2024W](https://meilinshi.github.io/290061-Geographic-Information-Retrieval/intro.html))
    <br>
    **Course description:** The course will cover GIR’s core concepts, techniques and challenges, such as the ambiguity of place names, topological relations, georeferencing, spatial indexing and ranking, and geospatial semantics. Through literature review and Python-based practical exercises, participants will also learn how to query structured data from geographic databases, how to geoparse unstructured texts to extract location references, and geospatial semantic analysis and interactive geo-visualization with retrieved information.
  
@@ -36,13 +36,16 @@ I am a PhD student working on the topic of _Concept Drift in Geo-Knowledge Graph
 ## Publications
 - **[The KnowWhereGraph Ontology](https://www.sciencedirect.com/science/article/pii/S1570826824000283)**
   <br> Cogan Shimizu, Shirly Stephen, Adrita Barua, Ling Cai, Antrea Christou, Kitty Currier, Abhilekha Dalal, Colby K Fisher, Pascal Hitzler, Krzysztof Janowicz, Wenwen Li, Zilong Liu, Mohammad Saeid Mahdavinejad, Gengchen Mai, Dean Rehberger, Mark Schildhauer, **Meilin Shi**, Sanaz Saki Norouzi, Yuanyuan Tian, Sizhe Wang, Zhangyu Wang, Joseph Zalewski, Lu Zhou, Rui Zhu. **Journal of Web Semantics, 2024**.
+
 - **[Towards Formalizing Concept Drift and Its Variants: A Case Study Using Past COSIT Proceedings](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.COSIT.2024.23)**
   <br>
   **Meilin Shi**, Krzysztof Janowicz, Zilong Liu, Kitty Currier. **COSIT 2024**.
   [[PDF](https://drops.dagstuhl.de/storage/00lipics/lipics-vol315-cosit2024/LIPIcs.COSIT.2024.23/LIPIcs.COSIT.2024.23.pdf)] [[Code](https://github.com/meilinshi/Concept-Drift-Formalization-COSIT-Case-Study)]
+
 - **[Fast Forward from Data to Insight: (Geographic) Knowledge Graphs and Their Applications](https://drive.google.com/file/d/148yjOR-GtyPWADizH-GIrpXopLX7vpFH/view)**
   <br>
   Krzysztof Janowicz, Kitty Currier, Cogan Shimizu, Rui Zhu, **Meilin Shi**, Colby K. Fisher, Dean Rehberger, Pascal Hitzler, Zilong Liu, and Shirly Stephen. **Handbook of Geospatial Artificial Intelligence, 2023**. 
+
 - **[Thinking Geographically about AI Sustainability](https://agile-giss.copernicus.org/articles/4/42/2023/)**
   <br>
   **Meilin Shi**, Kitty Currier,  Zilong Liu, Krzysztof Janowicz, Nina Wiedemann, Judith Verstegen, Grant McKenzie, Anita Graser, Rui Zhu, and Gengchen Mai. **AGILE 2023**.
