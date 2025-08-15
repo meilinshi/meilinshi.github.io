@@ -34,8 +34,8 @@ I am a PhD student working on the topic of _Concept Drift in Geo-Knowledge Graph
  
 
 ## Publications
-- **What, When, and Where Do You Mean? Detecting Spatio-Temporal Concept Drift in Scientific Texts**
-  <br> **Meilin Shi**, Krzysztof Janowicz, Zilong Liu, Mina Karimi, Ivan Majic, Alexandra Fortacz. **GIScience 2025**. [[Code](https://github.com/meilinshi/Spatio-temporal-Concept-Drift-in-Scientific-Texts)]
+- **[What, When, and Where Do You Mean? Detecting Spatio-Temporal Concept Drift in Scientific Texts](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.GIScience.2025.16)**
+  <br> **Meilin Shi**, Krzysztof Janowicz, Zilong Liu, Mina Karimi, Ivan Majic, Alexandra Fortacz. **GIScience 2025**. [[PDF](https://drops.dagstuhl.de/storage/00lipics/lipics-vol346-giscience2025/LIPIcs.GIScience.2025.16/LIPIcs.GIScience.2025.16.pdf)] [[Code](https://github.com/meilinshi/Spatio-temporal-Concept-Drift-in-Scientific-Texts)]
   
 - **[Defining Concept Drift and Its Variants in Research Data Management: A Scientometric Case Study on Geographic Information Science](https://onlinelibrary.wiley.com/doi/10.1111/tgis.70058)**
   <br> **Meilin Shi**, Krzysztof Janowicz, Zilong Liu, Mina Karimi, Ivan Majic, Alexandra Fortacz. **Transaction in GIS, 2025**. [[PDF](https://onlinelibrary.wiley.com/doi/epdf/10.1111/tgis.70058)]
