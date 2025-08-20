@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a PhD student working on the topic of _Concept Drift in Geo-Knowledge Graphs_ with [Prof. Krzysztof Janowicz](https://www.univie.ac.at/en/research/research-overview/neue-professuren-ab-2020/detailansicht-en/artikel/univ-prof-dr-krzysztof-janowicz/#) in the Spatial Temporal Knowledge Observatory (STKO) Lab, Department of Geography and Regional Research, University of Vienna. 
+I am a PhD student working on the topic of _Geographic Concept Drift in Research Data Management_ with [Prof. Krzysztof Janowicz](https://scholar.google.com/citations?user=6B2Z9vAAAAAJ&hl=en&oi=ao) in the Spatial Temporal Knowledge Observatory (STKO) Lab, Department of Geography and Regional Research, University of Vienna. 
 
 ## Research Interests
 
